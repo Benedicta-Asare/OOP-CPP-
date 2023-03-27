@@ -25,7 +25,7 @@ int main(){
     }
 
 
-    // four-function calculator
+    // four-function calculator done
     float num1, num2, ans;
     char sign, confirm;
 
