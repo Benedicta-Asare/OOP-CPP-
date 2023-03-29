@@ -6,11 +6,11 @@ int main(){
     float num1, num2, ans;
     char sign, confirm;
 
-    cout << "\n\n**********Welcome to my calculator**********" << endl;
+    cout << "\n**********Welcome to my calculator**********" << endl;
     do{
     cout << "\nEnter first number, an operator(+, -, *, /) and a second number: " << endl;
     cin >> num1 >> sign >> num2;
-
+    
     switch(sign){
     case '+':
         ans = num1 + num2;
