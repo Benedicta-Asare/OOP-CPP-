@@ -1,4 +1,4 @@
-//Function that sets the smaller value to zero
+//Function that sets the smaller value of two numbers to zero
 #include <iostream>
 using namespace std;
 
