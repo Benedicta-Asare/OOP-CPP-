@@ -1,6 +1,5 @@
 //Temperature conversion program
 #include <iostream>
-
 using namespace std;
 
 int main(){
@@ -10,6 +9,7 @@ int main(){
     cout << "What conversion do you want to do?" << endl;
     cout << "1. degree Celsius to degree Fahrenheit" << endl;
     cout << "2. degree Fahrenheit to degree Celsius" << endl;
+    cout << "Enter choice: ";
     cin >> choice;
     if (choice == 1){
         cout << "Enter temperature in degree Celsius: ";
