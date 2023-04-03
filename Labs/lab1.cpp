@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    // declaring variables
+    //Declaring variables
     int a = 17785;
     string text = "Welcome to this class";
     float b = -56.1427;
@@ -15,7 +15,7 @@ int main()
     string name[10] = {"Kofi", "Ama"};
 
 
-    // finding the birth year of a user
+    //Finding the birth year of a user
     int age, year;
     cout << "How old are you?" << endl;
     cin >> age;
@@ -23,7 +23,7 @@ int main()
     cout << "Your year of birth is " << year << endl;
 
 
-    // array
+    //Array
     int Marks[] = {67, 71, 54, 43, 82, 90};
     int AppliedElectricity;
     Marks[2] = 75;
