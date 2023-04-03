@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     
-    // gallons to cubic feet conversion
+    //gallons to cubic feet conversion
     int num_of_gallons;
     const float gallons = 7.481;
     float result;
